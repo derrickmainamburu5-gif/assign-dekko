@@ -1,6 +1,6 @@
 fun main() {
 //section 1
-    var studentName: String = "Laura Serila"
+    var studentName: String = "Dekko Maish"
     println("Student Name: $studentName")
 
     val studentId: Int = 2024001
